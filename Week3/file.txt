@@ -1,0 +1,9 @@
+# basic graph with edge weights and heuristic
+graph GRAPH_1
+nodes a b c d
+edges
+a b 1
+a c 2
+b c 3
+b d 6
+c d 4
